@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Drcadin
+- 👋 Hi, I’m Renel cadin DEMANOU, PMP® (@Drcadin) 
 - 👀 I’m interested in analyze data and transform it into highly valuable metrics for a company. I’m responsible for both data collection and data processing as well as guaranteeing data integrity. I’ve developed communication and reporting skills to support decision-making processes. I’m able to create custom algorithms and dig further into mathematical models (Machine learning).
 - 🌱 I’m currently learning about new technologies in the fields of Data science to improve myself
 - 💞️ I’m looking to collaborate on Data's Project.
